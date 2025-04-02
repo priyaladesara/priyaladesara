@@ -20,6 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyaladesara&show_icons=true&locale=en" alt="priyaladesara" /></p>
 
-<img src="https://streak-stats.demolab.com/?user=priyaladesara&theme=radical" alt="GitHub Streak" />
+
 
 
