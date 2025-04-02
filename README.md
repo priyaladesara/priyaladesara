@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Priyal</h1>
-<h3 align="center">🔹 I am learning the MERN stack.</h3>
+<h3 align="center">Software Developer | MERN Stack | DSA & SQL Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyaladesara&label=Profile%20views&color=0e75b6&style=flat" alt="priyaladesara" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyaladesara" alt="priyaladesara" /></a> </p>
 
-- 🔭 I’m currently working with [GSSoC'24](https://gssoc.girlscript)
+- ❄️ I worked with Gormish in Winter 2024
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyaladesara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyaladesara" height="30" width="40" /></a>
-
+<a href="https://github.com/priyaladesara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,4 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyaladesara&show_icons=true&locale=en" alt="priyaladesara" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyaladesara&" alt="priyaladesara" /></p>
+<img src="https://streak-stats.demolab.com/?user=priyaladesara&theme=radical" alt="GitHub Streak" />
+
+
